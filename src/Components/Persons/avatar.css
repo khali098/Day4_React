@@ -1,0 +1,41 @@
+.globalContainer{
+    width: 10rem;
+    height: 20.3rem;
+    background-color:#5847e9;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 6.5rem;
+    color: rgb(182, 182, 182);    
+}
+
+.globalContainer h1{
+    color: white;
+}
+
+.globalContainer .top{
+    margin-top: 9rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.globalContainer .top img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin: 1rem ;
+}
+
+.globalContainer .interval{
+    width: 10rem;
+    height: 10rem;
+    background-color: #1e204c;
+    border-radius: 10px;
+   
+
+display: flex;
+flex-direction: column;
+align-items: start;
+}
